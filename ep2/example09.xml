@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<animations version="1.0">
+  <anim id="Carousel_cannon">
+    <frame sprite="carousel_1" delay="10" ref="center"></frame>
+  </anim>
+  <anim id="Carousel_reactor">
+    <frame sprite="carousel_2" delay="10" ref="center"></frame>
+  </anim>
+  <anim id="Carousel_wrecked">
+    <frame sprite="carousel_3" delay="10" ref="center">
+      <image>
+	<png>carousel.png</png>
+      </image>
+    </frame>
+  </anim>  
+</animations>
